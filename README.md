@@ -8,6 +8,7 @@ Analysis of New York Citi Bike data, using Tableau
 - citibike_df.csv - Not Shown
 ###### Results
 ***Tableau Analysis Dashboard***
+
 [NYC Citi Bike Analysis Dashboard](https://public.tableau.com/app/profile/robyn.cook3069/viz/NYCCitiBikeAnalysis_16485178688680/NYCCitiBikeAnalysis?publish=yes)
 
 ![DB1](https://github.com/robyndook/bikesharing/blob/ba51461866a302f2f20b38ed7b4e649e34c8e55f/Images/2022-03-30_00-19-56.jpg)
@@ -27,12 +28,13 @@ Analysis of New York Citi Bike data, using Tableau
 - User TRipes by Gender by Weekend
 - Male subscribers make up the majority of check outs during the week with a spike on Thursday and Friday
 
-![DB5](https from github)
+![DB5](https://github.com/robyndook/bikesharing/blob/d3b5f7952b6a095ca0c78171c08541a16b22d8a9/Images/2022-03-30_00-37-00.jpg)
 - Trips by Gender (Weekday per Hour)
 - Men are majoritively utilizing bikesharubg throughout the weekdays before or after work hours and on weekends
 
 ###### Summary
 The data indicates men are the main subcribers utilitizing bike sharing before and after work hours and on weekends for Auguts 2019. This sggests that Citi Bike is used as an alternative to public transportation by commuting workers
+
 ***Analysis Improvement Suggections***
 - YTD data and weather data to follow trends
 - Addtional demographic data to interpreted new check out and check in locations and possible promotions with companies to promote Citi Bike to their employees
